@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+README.md
+>>>>>>> 70246d9ffd4ae1fbcfa87314bb3f51d78a747602
 
 # JavaScript Arrays
 
